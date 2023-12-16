@@ -1,3 +1,4 @@
+--1.	Seleccione todos los nombres de automóviles que venden en el concesionario.
 SELECT CONCAT(M.Nombre, ' ', A.Nombre)
 FROM AUTOMOVILES A
 INNER JOIN MARCAS M
