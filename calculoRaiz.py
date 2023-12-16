@@ -1,3 +1,7 @@
+#En lenguaje de seudocódigo (cercano a Python) 
+#Elabore un algoritmo que calcule la raíz cuadrada de un número con un error del 0.01 sin usar funciones matemáticas.
+
+
 # Ingresar el número a calcular
 try:
     numero_a_calcular = float(input("Ingrese el número para calcular su raíz cuadrada: "))
